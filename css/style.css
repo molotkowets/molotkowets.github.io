@@ -297,7 +297,7 @@ header {
         line-height: 1;
     }
     .topmenu_lang {
-        height: 22px;
+        height: 30px;
     }
     .topmenu_lang>li {
         margin-bottom: 5px;
@@ -357,7 +357,7 @@ header {
         color: #fff;
     }
     .topmenu_lang {
-        height: 22px;
+        height: 30px;
     }
     .topmenu_lang>li {
         margin-bottom: 5px;
@@ -411,7 +411,7 @@ header {
         color: #fff;
     }
     .topmenu_lang {
-        height: 22px;
+        height: 30px;
     }
     .topmenu_lang>li {
         margin-bottom: 5px;
@@ -460,7 +460,7 @@ header {
         line-height: 0.6;
     }
     .topmenu_lang {
-        height: 22px;
+        height: 30px;
     }
     .submenu a:hover,
     .topmenu a:hover {
@@ -521,7 +521,7 @@ header {
         line-height: 0.5;
     }
     .topmenu_lang {
-        height: 22px;
+        height: 30px;
     }
     .submenu a:hover,
     .topmenu a:hover {
